@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A42D8D4-475A-4571-950D-A5D254363BC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GitDemoApp</string>
+	<key>IDESourceControlProjectPath</key>
+	<string>GitDemoApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>210E87A1-CECA-4154-B55A-05624646D285</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>210E87A1-CECA-4154-B55A-05624646D285</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>210E87A1-CECA-4154-B55A-05624646D285</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GitDemoApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
